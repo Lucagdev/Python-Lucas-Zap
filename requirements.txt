@@ -14,5 +14,5 @@ psycopg2==2.9.6
 python-engineio==4.5.1
 python-socketio==5.8.0
 simple-websocket==0.10.1
-Werkzeug==2.3.6
+Werkzeug==2.2.3
 wsproto==1.2.0
