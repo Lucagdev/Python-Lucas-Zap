@@ -19,4 +19,4 @@ def homepage():
 
 
 #iniciar o app
-socketio.run(app, host="192.168.100.106")
+socketio.run(app, host="lucaszap.onrender.com", port=80)
